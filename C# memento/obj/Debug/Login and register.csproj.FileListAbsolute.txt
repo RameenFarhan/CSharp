@@ -1,0 +1,36 @@
+C:\Users\asus\source\repos\Login and register\bin\Debug\Login and register.exe.config
+C:\Users\asus\source\repos\Login and register\bin\Debug\Login and register.exe
+C:\Users\asus\source\repos\Login and register\bin\Debug\Login and register.pdb
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login and register.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.FrmLogin.resources
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.Properties.Resources.resources
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login and register.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login and register.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login and register.exe
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login and register.pdb
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.MainForm.resources
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.Clint.resources
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.Staff.resources
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.ViewBooking.resources
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.Form1.resources
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.Booking.resources
+C:\Users\asus\source\repos\Login and register\obj\Debug\Login_and_register.AdminPanel.resources
+C:\Users\asus\source\repos\Login and register\Login and register\bin\Debug\Login and register.exe.config
+C:\Users\asus\source\repos\Login and register\Login and register\bin\Debug\Login and register.exe
+C:\Users\asus\source\repos\Login and register\Login and register\bin\Debug\Login and register.pdb
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login and register.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.AdminPanel.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.Booking.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.Clint.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.Form1.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.FrmLogin.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.MainForm.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.Properties.Resources.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.Staff.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.ViewBooking.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login and register.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login and register.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login and register.exe
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login and register.pdb
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.Clint2.resources
+C:\Users\asus\source\repos\Login and register\Login and register\obj\Debug\Login_and_register.ViewBooking2.resources
